@@ -11,4 +11,4 @@ Before tweeting the app asks for confirmation and shows a preview of the message
 
 ### Result
 
-!()[twitter_ss.png]
+![](twitter_ss.png)
