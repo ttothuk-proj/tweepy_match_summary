@@ -1,7 +1,7 @@
 # Tweepy Match Summary
 Match summary - tweet bot. 
 
-A short python program, which scrapes the web for information about a football match, downloades an image and creates a tweet with the gathered information.
+A short python program, which scrapes the web for information about a football match, downloades an image and creates a tweet with the gathered data.
 The 3 links needed for the program to work are:
 - FootballCritic, for data such as team name, scores, statistics. Example: [FootballCritic](https://www.footballcritic.com/serie-a-as-roma-spezia-calcio/match-stats/2160196)
 - UnderStat, for xG. Example: [UnderStat](https://understat.com/match/15613)
